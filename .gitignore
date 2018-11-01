@@ -5,9 +5,10 @@
 /[Bb]uilds/
 
 /Assets/AssetStoreTools*
-# /Assets/Scenes*
+/Assets/Scenes*
 /Assets/SampleScenes*
 /Assets/Standard*Assets*
+/Assets/Plugins*
 
 # Visual Studio 2015 cache directory
 /.vs/
