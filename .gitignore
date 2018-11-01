@@ -5,7 +5,7 @@
 /[Bb]uilds/
 
 /Assets/AssetStoreTools*
-/Assets/Scenes*
+# /Assets/Scenes*
 /Assets/SampleScenes*
 /Assets/Standard*Assets*
 
